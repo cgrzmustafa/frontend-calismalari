@@ -1,0 +1,39 @@
+.ortala {
+  text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+li {
+  text-align: center;
+}
+
+h1 {
+  color: red;
+}
+
+h2 {
+  color: purple;
+}
+
+h3 {
+  color: orange;
+}
+
+p {
+  color: black;
+  font-weight: bold;
+}
+
+li {
+  color: black;
+}
+
+img {
+  height: 200px;
+}
