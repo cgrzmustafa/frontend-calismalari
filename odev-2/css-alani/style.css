@@ -1,0 +1,78 @@
+.container {
+  width: 1000px;
+  /*
+    margin-right: auto;
+    margin-left: auto;
+    */
+  margin: 50px 0 0 13%; /* saat yönüne göre*/
+  text-align: center;
+}
+
+.img {
+  display: block;
+  margin: auto;
+  width: 50%;
+  display: inline-block;
+  background-color: white;
+}
+
+.bar-1 {
+  display: block;
+  margin: auto;
+  width: 100%;
+  display: inline-block;
+  background-color: rgb(204, 201, 201);
+  padding: 0%;
+}
+
+.button-1 {
+  display: block;
+  width: 300px;
+  height: 27px;
+  margin: auto;
+
+  background-color: white;
+}
+
+.button-group {
+  display: inline-block;
+  width: 100px;
+  height: 23px;
+}
+
+.button-group-1 {
+  display: inline-block;
+  width: 100px;
+  height: 23px;
+  margin-right: 5%;
+}
+
+.card-1 {
+  float: left;
+  background-color: #7ee5da;
+  width: 35%;
+  height: 87px;
+}
+
+.card-2 {
+  float: left;
+  background-color: #70ccc2;
+  width: 20%;
+  height: 87px;
+  padding-bottom: 0%;
+}
+
+.card-3 {
+  float: left;
+  background-color: #62b3aa;
+  width: 45%;
+}
+
+p {
+  margin: 0%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
